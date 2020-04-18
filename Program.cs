@@ -8,7 +8,8 @@ namespace Algorithms
         static void Main(string[] args)
         {
             //IntToBinary.ConvertIntToBinary();
-            ConvertIntToString();
+            //ConvertIntToString();
+            StringToInt.ConvertStringToInt();
         }
 
         private static void ConvertIntToString()
